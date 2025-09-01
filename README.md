@@ -13,7 +13,7 @@ Este proyecto fue desarrollado y probado en el siguiente entorno:
 
 Para ejecutar la solución, sigue estos pasos:
 
-1.  **Clona o descarga el repositorio** y asegúrate de tener el archivo `solucion.py]` en tu directorio de trabajo.
+1.  **Clona o descarga el repositorio** y asegúrate de tener el archivo `solucion.py` en tu directorio de trabajo.
 2.  **Abre una terminal** o línea de comandos en ese directorio.
 3.  **Ejecuta el script** usando el intérprete de Python. El script contiene ejemplos predefinidos y se ejecutará directamente:
 
@@ -78,12 +78,8 @@ El proceso es el siguiente:
 **Ventaja:** El tamaño de la FNC resultante es **lineal** con respecto al tamaño de la fórmula original, evitando la explosión exponencial.
 **Desventaja:** La FNC no es lógicamente equivalente a la original, solo equisatisfacible.
 
-## 4. Contenido del Repositorio
+## 4. Fuentes y Referencias
 
-El repositorio debe contener únicamente el archivo de código fuente principal para mantenerlo limpio y enfocado:
+- Asistente de IA: Gemini fue utilizado como asistente en la generación y depuración del código, así como para aclarar la estructura de los algoritmos y los conceptos teóricos subyacentes.
 
--   `solucion.py`
-
-## 5. Fuentes y Referencias
-
-`Gemini, Mathematical Logic for Computer Science`
+- Libro: Ben-Ari, M. (2012). Mathematical Logic for Computer Science. Springer.
